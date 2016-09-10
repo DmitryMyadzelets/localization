@@ -4,7 +4,7 @@
 const fs = require('fs');
 const path = require('path');
 
-const LOCALE_FILE_DIR = path.join(__dirname, 'locales/');
+const LOCALE_FILE_DIR = 'locales/';
 
 var locales = {
     en : readFileSync('en.json'),

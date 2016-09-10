@@ -1,6 +1,6 @@
 {
   "name": "localization",
-  "version": "1.0.1g",
+  "version": "1.0.2",
   "description": "Localization module for user faced text messages",
   "main": "index.js",
   "scripts": {
