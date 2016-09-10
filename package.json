@@ -1,0 +1,14 @@
+{
+  "name": "localization",
+  "version": "1.0.0",
+  "description": "Localization module for user faced text messages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Lars de Bruijn",
+  "license": "ISC",
+  "keywords": [
+    "localization"
+  ]
+}
